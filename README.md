@@ -6,3 +6,4 @@ The Repository also contains the checkpoint/pre trained weights for the best mod
 
 The code uses the concept of Attention Mechanism applied on Gated Recurrent Units to translate the text. 
 
+It also contains the Training and Test Data
